@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">MVVM_Structure_Demo</string>
+
+    <string name="blank_title">Please enter title</string>
+    <string name="blank_desc">Please enter description</string>
+    <string name="blank_address">Please enter address</string>
+    <string name="blank_assign_to">Please select assign to</string>
+    <string name="terms">Please check Terms &amp; Conditions</string>
+    <string name="blank_district">Please enter district</string>
+    <string name="blank_city">Please enter city</string>
+    <string name="blank_landmark">Please enter landmark</string>
+    <string name="blank_proof_number">Please enter proof number</string>
+    <string name="blank_dob">Please select date of birth</string>
+
+
+    <string name="invalid">Invalid data</string>
+    <string name="msg_all_field_required">All fields are required.</string>
+    <string name="invalid_email">Please enter valid email</string>
+    <string name="invalid_confirm_password">Password and confirm password does not match</string>
+    <string name="invalid_password">Password length should be minimum 6 characters.</string>
+    <string name="invalid_phone">Please enter 10 digit phone number.</string>
+    <string name="invalid_otp">Please enter 4 digit OTP.</string>
+    <string name="msg_no_internet">No internet connection available.</string>
+    <string name="invalid_member_id">Please enter 9 character Executive ID.</string>
+    <string name="add_both_image">Please Select Scanned Copy1 Image</string>
+
+    <string name="blank_username">Please enter emp code</string>
+    <string name="blank_email">Please enter email address</string>
+    <string name="blank_first_name">Please enter name</string>
+    <string name="blank_last_name">Please enter last name</string>
+    <string name="blank_state">Please enter state</string>
+    <string name="blank_comment">Please enter comment</string>
+    <string name="blank_phone">Please enter phone number</string>
+    <string name="blank_password">Please enter password</string>
+    <string name="blank_current_password">Please enter current password</string>
+    <string name="blank_new_password">Please enter new password</string>
+    <string name="blank_confirm_password">Please enter confirm password</string>
+    <string name="blank_otp">Please enter otp</string>
+    <string name="blank_activation_code">Please enter Activation Code</string>
+    <string name="blank_blood_group">Please enter blood group</string>
+    <string name="blank_no_of_pins">Please enter Number of Pins</string>
+    <string name="blank_amount">Please enter amount</string>
+
+
+    <string name="blank_account_no">Please enter account no</string>
+    <string name="blank_account_holder_name">Please enter account holder name</string>
+    <string name="blank_bank_name">Please enter bank name</string>
+    <string name="blank_ifsc_code">Please enter IFS Code</string>
+    <string name="blank_branch_name">Please enter branch name</string>
+    <string name="blank_transaction_no">Please enter transaction no</string>
+    <string name="blank_transaction_date">Please enter transaction date</string>
+    <string name="blank_issued_bank_name">Please enter issued bank name</string>
+    <string name="blank_issued_remarks">Please enter remarks</string>
+    <string name="blank_pan_no">Please enter pan number</string>
+    <string name="blank_pincode">Please enter address or pincode</string>
+    <string name="invalid_pincode">Invalid pincode..</string>
+
+
+    <string name="blank_old_password">Please enter old password</string>
+
+    <string name="blank_qty">Please enter quantity</string>
+    <string name="error">error</string>
+</resources>
